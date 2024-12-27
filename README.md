@@ -11,7 +11,9 @@ Masters of Science in Computer Science
 Portsmouth University, Portsmouth, UK
 
 <h2>Certifications</h2>
-CompTIA Security+, Google Cybersecurity Professional, CompTIA IT Fundamentals+
+CompTIA Security+ <br> 
+Google Cybersecurity Professional <br>
+CompTIA IT Fundamentals+
 
 <h2>Projects</h2>
 
