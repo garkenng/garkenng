@@ -13,20 +13,20 @@ Portsmouth University, Portsmouth, UK
 <h2>Certifications</h2>
 CompTIA Security+, Google Cybersecurity Professional, CompTIA IT Fundamentals+
 
-<h2>👨‍💻 Projects</h2>
+<h2>Projects</h2>
 
 - <b>Azure / Cloud Projects</b>
   - Honeynet in Microsoft Azure and SOC. Creating an unprotected environment in azure, intentionally exposing VM's to the public internet for 24 hours. Security controls implemented to improve the security posture. Comparison of before and after analyzed through metrics taken.
-- <b>KQL</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Python</b>
--  
-- <b>Linux</b>
+
 -
 <h2>Experience</h2>
 
 Developed practical SOC Analyst skills through LetsDefend SOC Analyst Learning Path. Included real world threat analysis and incident response.
-
+- <b>KQL</b>
+  - Completing cyber detecive games using KQL.
+- <b>Python</b>
+-  
+- <b>Linux</b>
 <h2>⚡ Fun fact </h2>
 
 
