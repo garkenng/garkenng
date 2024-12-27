@@ -1,44 +1,39 @@
-<h1>Hi, I'm Mark! <br/><a href="https://github.com/garkenng">Programmer</a>, <a href="https://www.linkedin.com/in/gar-ken-ng-90427a241">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Mark!</h1> 
+<h1> Aspiring Cybersecurity Professional</h1>
+Cybersecurity professional actively pursuing a role in the field, with a focus on continuously strengthening my skills and technical expertise in cyber resilience.
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>Education</h2>
+
+Bachelor of Science in Computer Science
+Solent University, Southampton, UK
+
+Masters of Science in Computer Science
+Portsmouth University, Portsmouth, UK
+
+<h2>Certifications</h2>
+CompTIA Security+, Google Cybersecurity Professional, CompTIA IT Fundamentals+
+
+<h2>👨‍💻 Projects</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+  - Honeynet in Microsoft Azure and SOC. Creating an unprotected environment in azure, intentionally exposing VM's to the public internet for 24 hours. Security controls implemented to improve the security posture. Comparison of before and after analyzed through metrics taken.
+- <b>KQL</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+-  
+- <b>Linux</b>
+-
+<h2>Experience</h2>
+
+Developed practical SOC Analyst skills through LetsDefend SOC Analyst Learning Path. Included real world threat analysis and incident response.
+
+<h2>⚡ Fun fact </h2>
 
 
-
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me</h2>
 
 [<img align="left" alt="GarKenNg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GarKenNg | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 [linkedin]: https://www.linkedin.com/in/gar-ken-ng-90427a241/
 [github]: https://github.com/garkenng/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
