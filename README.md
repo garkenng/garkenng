@@ -73,5 +73,5 @@ I can hit an Imanari Roll!
 [<img align="left" alt="GarKenNg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GarKenNg | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
-[linkedin]: www.linkedin.com/in/gar-ken-ng
+[linkedin]: www.linkedin.com/in/gar-ken-ng](https://www.linkedin.com/in/gar-ken-ng/
 [github]: https://github.com/garkenng/
