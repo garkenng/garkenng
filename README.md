@@ -67,7 +67,7 @@ CompTIA CertMaster CE Security+. Expected completion February 2025<br>
 </ul>
 
 <h2>Fun fact </h2>
-I can hit an Imanari Roll! 
+I can (kinda) hit an Imanari Roll! 
 
 <h2>Connect with me</h2>
 
