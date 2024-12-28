@@ -53,10 +53,20 @@ CompTIA CertMaster CE Security+. Expected completion February 2025<br>
   <li>Understanding the basics of serverside web-security.</li>
 </ul>
 
+<h2>Volunteering</h2>
+<b>LMOR Swimming and Diving</b>
+<ul>
+  <li>Volunteering to help the local swimming team compete in competivie events with other schools.</li>
+  <li>Job roles vary from timing laps to ensuring swimmers are in line ready for the race.</li>
+</ul>
+<b>Cradles to Crayons</b>
+<ul>
+  <li>Aid in ending children clothing insecurity in cities</li>
+  <li>Process, sort and pack clothes.</li>
+</ul>
 
-
-<h2>⚡ Fun fact </h2>
-
+<h2>Fun fact </h2>
+I can hit an Imanari Roll!
 
 <h2> 🤳 Connect with me</h2>
 
