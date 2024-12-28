@@ -18,7 +18,7 @@ CompTIA CertMaster CE Security+. Expected completion February 2025<br>
 
 
 <h2>Projects</h2>
-<b>Azure / Cloud Projects</b>
+<b><a href="https://github.com/garkenng/Honeynet-in-MS-Azure-and-SOC">Honeynet in MS Azure and SOC</a></b>
 <ul>
   <li>Honeynet in Microsoft Azure and SOC.</li>
   <li>Creating an unprotected environment in azure, intentionally exposing VM's to the public internet for 24 hours.</li>
