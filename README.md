@@ -11,10 +11,11 @@ Masters of Science in Computer Science
 Portsmouth University, Portsmouth, UK
 
 <h2>Certifications</h2>
-CompTIA Security+ <br> 
-Google Cybersecurity Professional <br>
-CompTIA IT Fundamentals+
-CompTIA CertMaster CE Security+. Expected completion February 2025
+<a href="https://www.credly.com/badges/e900bcc2-1d03-4d40-8317-d1600c16f143/public_url">CompTIA Security+</a> <br> 
+CompTIA CertMaster CE Security+. Expected completion February 2025<br>
+<a href="https://www.credly.com/badges/0124c198-11af-4502-bee6-e4c679cc02bd/public_url">Google Cybersecurity Professional Certification</a><br>
+<a href="https://www.credly.com/badges/887f80c5-b69c-4662-b7f2-9a8fb4454b64/public_url">CompTIA IT Fundamentals+<br></a>
+
 
 <h2>Projects</h2>
 <b>Azure / Cloud Projects</b>
@@ -28,7 +29,7 @@ CompTIA CertMaster CE Security+. Expected completion February 2025
 <h2>Experience</h2>
 <b>Practical SOC Analyst Skills</b><br>
 <ul>
-  <li>Developed practical SOC Analyst skills through LetsDefend SOC Analyst Learning Path.</li>
+  <li>Developed practical SOC Analyst skills through LetsDefend SOC analyst learning path course.</li>
   <li>Investigating real world security incidents.</li>
   <li>Threat analysis and incident response.</li>
   <li>Hands on experience with SOC tools, such as Wireshark and Splunk.</li>
@@ -41,16 +42,17 @@ CompTIA CertMaster CE Security+. Expected completion February 2025
   <li>Identify and track malicious activity wihtin a simulated environment.</li>
   <li>Hands on experience with real world scenarios.</li>
 </ul>
-<b>Python</b>
-<br>
+<b>Codewars</b>
+<ul>
+  <li></li>
+</ul>
 <b>OverTheWire</b>
 <ul>
   <li>Learned Linux fundamentals, such as file manipulation.</li>
-  <li>Exploring cryptography anc crackig different types of encryption.</li>
+  <li>Exploring cryptography and cracking different types of encryption.</li>
   <li>Understanding the basics of serverside web-security.</li>
-  <li></li>
 </ul>
-Leviathan is more advanced. It teaches you about binary analysis and how to find vulnerabilities in programs. Players solve puzzles that require reverse engineering, debugging, and exploiting weaknesses. It’s a great way to practice finding and fixing security flaws in software.
+
 
 
 <h2>⚡ Fun fact </h2>
