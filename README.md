@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mark!</h1> 
 <h1> Aspiring Cybersecurity Professional</h1>
-Cybersecurity professional actively pursuing a role in the field, with a focus on continuously strengthening my skills and technical expertise in cyber resilience.
+Cybersecurity professional actively pursuing a role in the field, with a focus on continuously strengthening my skills and technical expertise.
 
 <h2>Education</h2>
 
