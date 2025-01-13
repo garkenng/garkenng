@@ -26,7 +26,7 @@ CompTIA CertMaster CE Security+. Expected completion February 2025<br>
   <li>Security controls implemented to improve the security posture.</li>
   <li>Comparison of before and after analyzed through metrics taken.</li>
 </ul>
-<b><a href="https://github.com/garkenng/Honeynet-in-MS-Azure-and-SOC">SOC Analyst Lab</a></b>
+<b><a href="https://github.com/garkenng/SOC-Analyst-Lab---Hammered">SOC Analyst Lab</a></b>
 <ul>
   <li>Analyzing a webserver honeypot for possible compromise.</li>
   <li>Delving into server logs in search of IOC's.</li>
