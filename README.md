@@ -31,6 +31,11 @@ CompTIA CertMaster CE Security+. Expected completion February 2025<br>
   <li>Analyzing a webserver honeypot for possible compromise.</li>
   <li>Delving into server logs in search of IOC's.</li>
 </ul>
+<b><a href="https://github.com/garkenng/Web-Investigation-Lab">Web Investigation Lab</a></b>
+<ul>
+  <li>Analyzing network traffic on a compromised server using Wireshark</li>
+  <li>Accessing scope of any data breahes</li>
+</ul>
 
 <h2>Experience</h2>
 <b>Practical SOC Analyst Skills</b><br>
