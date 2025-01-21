@@ -53,10 +53,6 @@ CompTIA CertMaster CE Security+. Expected completion February 2025<br>
   <li>Identify and track malicious activity wihtin a simulated environment.</li>
   <li>Hands on experience with real world scenarios.</li>
 </ul>
-<b>Codewars</b>
-<ul>
-  <li></li>
-</ul>
 <b>OverTheWire</b>
 <ul>
   <li>Learned Linux fundamentals, such as file manipulation.</li>
