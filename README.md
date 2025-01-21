@@ -46,7 +46,7 @@ CompTIA CertMaster CE Security+. Expected completion February 2025<br>
   <li>Hands on experience with SOC tools, such as Wireshark and Splunk.</li>
 </ul>  
 
-<b>KC7 Cyber Defence</b>
+<b><a href="https://github.com/garkenng/KC7Cyber">KC7 Cyber Defence</a></b>
 <ul>
   <li>Using KQL to query and analyze complex data sets.</li>
   <li>Practical experience with threat analysis and log investigation.</li>
