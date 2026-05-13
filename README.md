@@ -13,7 +13,6 @@ Portsmouth University, Portsmouth, UK
 <h2>Certifications</h2>
 <a href="https://app.letsdefend.io//certificate/show/3dc2a66f-593a-4a10-8e3f-f73cb326dcfb">Lets Defend SOC Analyst Learning Path Certification</a><br>
 <a href="https://www.credly.com/badges/e900bcc2-1d03-4d40-8317-d1600c16f143/public_url">CompTIA Security+</a> <br> 
-CompTIA CertMaster CE Security+. Expected completion February 2025<br>
 <a href="https://www.credly.com/badges/0124c198-11af-4502-bee6-e4c679cc02bd/public_url">Google Cybersecurity Professional Certification</a><br>
 <a href="https://www.credly.com/badges/887f80c5-b69c-4662-b7f2-9a8fb4454b64/public_url">CompTIA IT Fundamentals+<br></a>
 
