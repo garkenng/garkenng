@@ -58,6 +58,10 @@ Portsmouth University, Portsmouth, UK
   <li>Exploring cryptography and cracking different types of encryption.</li>
   <li>Understanding the basics of serverside web-security.</li>
 </ul>
+<b>KC7 Cyber</b>
+<ul>
+  <li>Real world cybersecurity investigations turned into gamified challenges.</li>
+</ul>
 
 <h2>Volunteering</h2>
 <b>LMOR Swimming and Diving</b>
