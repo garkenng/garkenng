@@ -39,7 +39,7 @@ Portsmouth University, Portsmouth, UK
 <h2>Experience</h2>
 <b>Practical SOC Analyst Skills</b><br>
 <ul>
-  <li>Developed practical SOC Analyst skills through LetsDefend SOC analyst learning path course.</li>
+  <li>Developed practical SOC Analyst skills through Lets Defend SOC analyst learning path course.</li>
   <li>Investigating real world security incidents.</li>
   <li>Threat analysis and incident response.</li>
   <li>Hands on experience with SOC tools, such as Wireshark and Splunk.</li>
@@ -52,7 +52,7 @@ Portsmouth University, Portsmouth, UK
   <li>Identify and track malicious activity wihtin a simulated environment.</li>
   <li>Hands on experience with real world scenarios.</li>
 </ul>
-<b>Lets Defend</b>
+<b><a href="https://github.com/garkenng/Lets-Defend-Walkthroughs">Lets Defend</b>
 <ul>
   <li>Online blue team and SOC training platform</li>
   <li>Practice hands on investigation in a simulated environment.</li>
@@ -62,10 +62,6 @@ Portsmouth University, Portsmouth, UK
   <li>Learned Linux fundamentals, such as file manipulation.</li>
   <li>Exploring cryptography and cracking different types of encryption.</li>
   <li>Understanding the basics of serverside web-security.</li>
-</ul>
-<b>KC7 Cyber</b>
-<ul>
-  <li>Real world cybersecurity investigations turned into gamified challenges.</li>
 </ul>
 
 <h2>Volunteering</h2>
