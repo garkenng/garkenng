@@ -16,7 +16,6 @@ Portsmouth University, Portsmouth, UK
 <a href="https://www.credly.com/badges/0124c198-11af-4502-bee6-e4c679cc02bd/public_url">Google Cybersecurity Professional Certification</a><br>
 <a href="https://www.credly.com/badges/887f80c5-b69c-4662-b7f2-9a8fb4454b64/public_url">CompTIA IT Fundamentals+<br></a>
 
-
 <h2>Projects</h2>
 <b><a href="https://github.com/garkenng/Honeynet-in-MS-Azure-and-SOC">Honeynet in MS Azure and SOC</a></b>
 <ul>
@@ -36,7 +35,7 @@ Portsmouth University, Portsmouth, UK
   <li>Accessing scope of any data breahes</li>
 </ul>
 
-<h2>Experience</h2>
+<h2>Projects</h2>
 <b>Practical SOC Analyst Skills</b><br>
 <ul>
   <li>Developed practical SOC Analyst skills through Lets Defend SOC analyst learning path course.</li>
