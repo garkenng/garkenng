@@ -45,7 +45,7 @@ Portsmouth University, Portsmouth, UK
   <li>Hands on experience with SOC tools, such as Wireshark and Splunk.</li>
 </ul>  
 
-<b><a href="https://github.com/garkenng/KC7Cyber">KC7 Cyber Defence</a></b>
+<b><a href="https://github.com/garkenng/KC7Cyber">KC7 Cyber</a></b>
 <ul>
   <li>Using KQL to query and analyze complex data sets.</li>
   <li>Practical experience with threat analysis and log investigation.</li>
@@ -57,7 +57,7 @@ Portsmouth University, Portsmouth, UK
   <li>Online blue team and SOC training platform</li>
   <li>Practice hands on investigation in a simulated environment.</li>
 </ul>
-<b>Over The Wire</b>
+<b><a href="https://github.com/garkenng/Over-The-Wire-Wargames">Over The Wire</b>
 <ul>
   <li>Learned Linux fundamentals, such as file manipulation.</li>
   <li>Exploring cryptography and cracking different types of encryption.</li>
