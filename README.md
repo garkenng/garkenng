@@ -70,7 +70,7 @@ Portsmouth University, Portsmouth, UK
   <li>Aid in ending children clothing insecurity in cities.</li>
   <li>Process, sort and pack clothes.</li>
 </ul>
-<b>Feed My Starvin Children</b>
+<b>Feed My Starving Children</b>
 <ul>
   <li>Handpack meals for malnourished children in over 100 countries.</li>
 </ul>
