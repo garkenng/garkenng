@@ -4,10 +4,10 @@ An aspiring cybersecurity professional actively pursuing a role in the field, wi
 
 <h2>Education</h2>
 
-Bachelor of Science in Computer Science
+Bachelor of Science in Computer Science<br>
 Solent University, Southampton, UK
 
-Masters of Science in Internet Systems Development
+Masters of Science in Internet Systems Development<br>
 Portsmouth University, Portsmouth, UK
 
 <h2>Certifications</h2>
