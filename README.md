@@ -73,6 +73,7 @@ Portsmouth University, Portsmouth, UK
 <b>Feed My Starving Children</b>
 <ul>
   <li>Handpack meals for malnourished children in over 100 countries.</li>
+  <li>Measuring, sealing, and packing food pouches.</li>
 </ul>
 
 <h2>Fun fact </h2>
