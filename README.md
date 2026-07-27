@@ -65,17 +65,17 @@ Portsmouth University, Portsmouth, UK
 </ul>
 
 <h2>Volunteering</h2>
-<b>LMOR Swimming and Diving</b>
+<b><a href="https://www.lmswim.com/">LMOR Swimming and Diving</b>
 <ul>
   <li>Volunteering to help the local swimming team compete in competivie events with other schools.</li>
   <li>Job roles vary from timing laps to ensuring swimmers are in line ready for the race.</li>
 </ul>
-<b>Cradles to Crayons</b>
+<b><a href="https://www.cradlestocrayons.org/philadelphia/">Cradles to Crayons</b>
 <ul>
   <li>Aid in ending children clothing insecurity in cities.</li>
   <li>Process, sort and pack clothes.</li>
 </ul>
-<b>Feed My Starving Children</b>
+<b><a href="https://www.fmsc.org/">Feed My Starving Children</b>
 <ul>
   <li>Handpack meals for malnourished children in over 100 countries.</li>
   <li>Measuring, sealing, and packing food pouches.</li>
