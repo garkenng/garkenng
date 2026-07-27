@@ -52,7 +52,12 @@ Portsmouth University, Portsmouth, UK
   <li>Identify and track malicious activity wihtin a simulated environment.</li>
   <li>Hands on experience with real world scenarios.</li>
 </ul>
-<b>OverTheWire</b>
+<b>Lets Defend</b>
+<ul>
+  <li>Online blue team and SOC training platform</li>
+  <li>Practice hands on investigation in a simulated environment.</li>
+</ul>
+<b>Over The Wire</b>
 <ul>
   <li>Learned Linux fundamentals, such as file manipulation.</li>
   <li>Exploring cryptography and cracking different types of encryption.</li>
