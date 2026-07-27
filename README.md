@@ -7,7 +7,7 @@ Cybersecurity professional actively pursuing a role in the field, with a focus o
 Bachelor of Science in Computer Science
 Solent University, Southampton, UK
 
-Masters of Science in Computer Science
+Masters of Science in Internet Systems Development
 Portsmouth University, Portsmouth, UK
 
 <h2>Certifications</h2>
